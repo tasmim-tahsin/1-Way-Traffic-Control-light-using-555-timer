@@ -11,7 +11,7 @@ This project is a simple **1-way traffic light controller** using a **555 timer*
 
 ## Circuit Diagram
 ```markdown
-![Circuit Diagram](circuit_diagram.png)
+![Image](https://github.com/user-attachments/assets/c1540b37-ae12-417a-9166-21cb0504e4f3)
 ```
 
 ## Components Used
