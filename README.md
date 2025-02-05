@@ -10,9 +10,9 @@ This project is a simple **1-way traffic light controller** using a **555 timer*
 - Adjustable timing using **resistors and capacitors**.
 
 ## Circuit Diagram
-```markdown
+
 ![Image](https://github.com/user-attachments/assets/c1540b37-ae12-417a-9166-21cb0504e4f3)
-```
+
 
 ## Components Used
 - **555 Timer IC** (Clock pulse generator)
